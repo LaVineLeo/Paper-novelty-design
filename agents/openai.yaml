@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Novelty Design V1"
+  short_description: "帮助设计、审查与改写论文创新点的结构化工作流核心技能"
+  default_prompt: "Use $paper-novelty-design-v1 to rewrite my idea into Problem-Method-Insight and pressure-test its novelty."
